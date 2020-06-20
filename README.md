@@ -1,5 +1,7 @@
 # firstRep
 my first repository
 int randomint(){
-return rundom i;
+Random r = new Rundom();
+int i = r.randomInt();
+return i;
 }
